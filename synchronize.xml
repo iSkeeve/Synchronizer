@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Synchronyze>
+      <dirs>
+            <dir resource="V:\APPS\" target="Q:\APPS\"></dir>
+            <dir resource="L:\APPS\" target="Q:\APPS\"></dir>
+      </dirs>
+</Synchronyze>
