@@ -23,3 +23,8 @@ local.properties
 # Idea project files
 .idea
 *.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
